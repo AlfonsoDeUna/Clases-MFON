@@ -11,8 +11,7 @@ del uso final, no sólo hay que tener en cuenta el tipo de micrófono sino tambi
 Para cada pregunta, razona qué micrófono comprarías y porqué. 
 
 
-## Presenta un documento con las características de los diferentes micrófonos que has visto tanto con los que te has quedado como con 
-los que has decidido no comprar.
+## Presenta un documento con las características de los diferentes micrófonos que has visto tanto con los que te has quedado como con los que has decidido no comprar.
 
 
 
