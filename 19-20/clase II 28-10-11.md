@@ -4,9 +4,9 @@
 Esta práctica pretende realizar un estudio de diferentes micrófonos y que seáis capaces de realizar una elección con criterios sobre qué micrófono puede interesar dependiendo
 del uso final, no sólo hay que tener en cuenta el tipo de micrófono sino también el presupueto que manejamos.
 
-¿Qué micrófonos tengo que comprar para un evento donde se realizará un discurso en un atril y podrán realizar preguntas el público?
-¿Qué micrófonos tengo que comprar si soy Youtuber?
-¿Qué micrófonos tengo que comprar si tengo una banda de música y quiero realizar un concierto?
+* ¿Qué micrófonos tengo que comprar para un evento donde se realizará un discurso en un atril y podrán realizar preguntas el público?
+* ¿Qué micrófonos tengo que comprar si soy Youtuber?
+* ¿Qué micrófonos tengo que comprar si tengo una banda de música y quiero realizar un concierto?
 
 Para cada pregunta, razona qué micrófono comprarías y porqué. 
 
