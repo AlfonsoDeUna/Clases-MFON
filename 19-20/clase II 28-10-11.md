@@ -16,7 +16,7 @@ Para cada pregunta, razona qué micrófono comprarías y porqué.
 
 
 
-###Tiendas donde encontrar micrófonos
+Tiendas donde encontrar micrófonos
 ---
 https://www.thomann.de/es/microfonos.html
 https://www.madridhifi.com/sonido/microfonos/
