@@ -21,4 +21,16 @@ c:\ThinkDSP
 
 ## CREACIÓN DEL ENTORNO A TRAVÉS DE CONDA
 
+Ir al directorio ThinkDSP y crear el entorno
+```
+c:\> cd ThinkDSP
+c:\> conda env create -f environment.yml
+```
+Por último activar el entorno
+```
+c:\> activate ThinkDSP
+```
+
+y ejectuar en el navegador http://127.0.0.1:8888
+
 
