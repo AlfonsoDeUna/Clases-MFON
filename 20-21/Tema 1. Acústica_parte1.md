@@ -37,7 +37,7 @@ ttps://www.youtube.com/watch?v=bUSFYTHfvYQ hasta minuto 4:32 propiedades física
 https://www.youtube.com/watch?v=RlsLcCeQv8Q
 
 
-#Frecuencias que podemos escuchar
+# Frecuencias que podemos escuchar
 Ejercicio: vídeo vamos a ver qué frecuencias podemos distinguir
 
 ### Introducción entre sonido y sus características del sonido
@@ -51,6 +51,13 @@ https://www.youtube.com/watch?v=bUSFYTHfvYQ min 3:00
 
 *tormentas*
 
+## Intensidad del sonido
+https://www.youtube.com/watch?v=Rzwc_ysCRyU
+
+### problema de intensidad del sonido
+https://www.youtube.com/watch?v=FldqBsoeXZI
+
+
 ## Reflexión - Acústica
 https://www.youtube.com/watch?v=bUSFYTHfvYQ min 9:00
 
@@ -61,5 +68,8 @@ https://github.com/AllenDowney/ThinkDSP
 
 armónicos --> 
 https://www.youtube.com/watch?v=fLCr7Cvavqc --> timbre e intensidad en fuente puntual cómo disminuye
+
+# ANEXO i
+Colección de vídeo de Acústica. El nivel es un poco más alto de 2º CFGM pero son muy buenos vídeos
 
 
