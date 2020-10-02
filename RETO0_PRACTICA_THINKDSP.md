@@ -10,3 +10,9 @@
 
 https://github.com/AllenDowney/ThinkDSP
 
+## Banco de sonidos
+
+https://www.hispasonic.com/foros/archivos-wav-gratis/151339
+
+
+
